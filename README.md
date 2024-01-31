@@ -2,16 +2,9 @@
 
 [![MichaelPietroski](/img/MICHAELPIETROSKI.png)](https://vppelli.github.io/portfolio-website/)
 
-![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)
-
 </div>
 
-## Table of Contents
-- [Projects](#projects)
-- [Working On](#working-on)
-- [About Me](#about-me)
-- [Contact](#contact)
-- [Fun Fact](#fun-fact)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://vppelli.github.io/portfolio-website/) [![Contact](https://img.shields.io/badge/Contact-black?style=for-the-badge)](mpworkplace@gmail.com) [![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge)](https://www.linkedin.com/in/michaelpietroski/) [![Artstation](https://img.shields.io/badge/Artstation-black?style=for-the-badge)](https://www.artstation.com/mpietros)
 
 ## Projects
 Click to view each project
@@ -27,19 +20,3 @@ Click to view each project
 [![MeetApp](/img/Meet%20App.png)](https://github.com/vppelli/meet)
 
 [![PredecessorDiscordThemes](/img/PDT.png)](https://github.com/vppelli/predecessor-discord-themes)
-
-
-## Working On
-
-
-
-
-
-## About Me
-
-[@Vppelli](https://github.com/vppelli).
-
-## Contact
-
-## Fun Fact
-- Fact:
