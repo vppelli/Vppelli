@@ -1,25 +1,8 @@
-
-
-<!--
-**vppelli/Vppelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div align="center">
 
 [![MichaelPietroski](/img/MICHAELPIETROSKI.png)](https://vppelli.github.io/portfolio-website/)
 
-![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge) [![BetterDiscord](https://img.shields.io/badge/Better_Discord-Download-%23E8C506?style=for-the-badge&labelColor=black)](https://betterdiscord.app) [![Vencord](https://img.shields.io/badge/Vencord-Download-%23E8C506?style=for-the-badge&labelColor=black)](https://vencord.dev) 
+![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)
 
 </div>
 
