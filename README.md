@@ -2,7 +2,7 @@
 
 [![MichaelPietroski](/img/MICHAELPIETROSKI.png)](https://vppelli.github.io/portfolio-website/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](https://vppelli.github.io/portfolio-website/) [![Contact](https://img.shields.io/badge/Contact-black?style=for-the-badge)](contact.txt) [![Linkedin](https://img.shields.io/badge/Linkedin-black?style=for-the-badge)](https://www.linkedin.com/in/michaelpietroski/) [![Artstation](https://img.shields.io/badge/Artstation-black?style=for-the-badge)](https://www.artstation.com/mpietros)
+[![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge)](https://vppelli.github.io/portfolio-website/) [![Contact](https://img.shields.io/badge/Contact-red?style=for-the-badge)](contact.txt) [![Linkedin](https://img.shields.io/badge/Linkedin-red?style=for-the-badge)](https://www.linkedin.com/in/michaelpietroski/) [![Artstation](https://img.shields.io/badge/Artstation-red?style=for-the-badge)](https://www.artstation.com/mpietros)
 
 ## Projects *Click to view each project*
   
