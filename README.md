@@ -18,4 +18,6 @@
 
 [![PredecessorDiscordThemes](/img/PDT.png)](https://github.com/vppelli/predecessor-discord-themes)
 
+[![ChatApp](/img/CHATAPP.png)](https://github.com/vppelli/chat-app)
+
 </div>
