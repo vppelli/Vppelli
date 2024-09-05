@@ -21,5 +21,9 @@
 </picture>](https://github.com/vppelli/chat-app)
 [<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vppelli/Vppelli/blob/main/img/MOVEANGULAR.png"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vppelli/Vppelli/blob/main/img/LMOVEANGULAR.png"><img alt="ChatApp link" src="https://github.com/vppelli/Vppelli/blob/main/img/MOVEANGULAR.png">
 </picture>](https://github.com/vppelli/movie_angular_client)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vppelli/Vppelli/blob/main/img/RECIPEAPP.png"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vppelli/Vppelli/blob/main/img/LRECIPEAPP.png"><img alt="RecipeApp link" src="https://github.com/vppelli/Vppelli/blob/main/img/RECIPEAPP.png">
+</picture>](https://github.com/vppelli/recipe-app)
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://github.com/vppelli/Vppelli/blob/main/img/PWJ.png"><source media="(prefers-color-scheme: light)" srcset="https://github.com/vppelli/Vppelli/blob/main/img/LPWJ.png"><img alt="Python Web Journey link" src="https://github.com/vppelli/Vppelli/blob/main/img/PWJAPP.png">
+</picture>](https://github.com/vppelli/python-web-development)
 
 </div>
